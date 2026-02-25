@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mr-abdul-salam.github.io/itz-catalog/sitemap.xml
+Sitemap: https://irfan-tiles-zone.github.io/itz-catalog/sitemap.xml
